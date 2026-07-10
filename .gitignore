@@ -1,0 +1,20 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+.pub-cache/
+.pub/
+*.iml
+.idea/
+.vscode/
+
+# Generated platform folders (recreables con `flutter create .`)
+# Descomenta si prefieres no versionarlas:
+# android/
+# ios/
+# web/
+# linux/
+# macos/
+# windows/
