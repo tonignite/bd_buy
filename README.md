@@ -102,3 +102,4 @@ lib/
 - **Datos de ejemplo**: se cargan solo la primera vez; luego se guardan tus
   cambios. Puedes restaurarlos desde el menú ⋮ → *Restaurar datos de ejemplo*.
 ```
+# bd_buy
